@@ -101,7 +101,7 @@ The agent can also be adapted to produce alternative outputs (slides, executive 
 
 ---
 
-Limitations
+### Limitations
 
 - Web search is snippet-based (no full-page retrieval)
 - No caching or retry logic
